@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+backend/venv/
+
+# Database
+*.db
+backend/sqlite.db
+
+# Node
+node_modules/
+
+# Dataset
+data/
+
+# Large files
+*.zip
+*.pt
+*.pth
+*.onnx
+
+# Cache
+.cache/
